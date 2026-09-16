@@ -1,0 +1,27 @@
+# Python / Django
+env/
+venv/
+__pycache__/
+*.pyc
+db.sqlite3
+staticfiles/
+
+# Local media (uploaded images) — chaite gele eta muriye dao
+media/
+
+# Node / Vite
+node_modules/
+dist/
+.vite/
+
+# Env files (secret!)
+.env
+*.env
+
+# OS files
+.Desktop
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
